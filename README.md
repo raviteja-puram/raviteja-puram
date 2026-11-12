@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Teja</h1>
+<h1 align="center">Hi 👋, I'm Ravi Teja Puram</h1>
 
 <h3 align="center">Software Developer | Python Developer | AI & ML Enthusiast from India 🇮🇳</h3>
 
@@ -10,8 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate in Computer Science (AI & ML).
-- 💼 Currently working as a Software Developer Intern at India Nippon Electricals Limited.
+- 💼 Currently working as a Software Developer Intern at India Nippon Electricals Ltd.
 - 🌱 Currently working on React.js, Python and Full-Stack Development.
 - 💻 Interested in Software Development, Artificial Intelligence and Web Development.
 - 🏆 2nd Prize Winner – Amaravati Quantum Valley Hackathon(Semi-finals).
@@ -46,13 +45,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥈 2nd Prize – Amaravati Quantum Valley Hackathon 2026.
-- 🧠 Worked on identifying anomalies in transaction data using Quantum Machine Learning (QML).
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
@@ -64,10 +56,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  💙 Thanks for visiting my profile! 
-  <br/>
-  <b>Keep Learning | Keep Building | Keep Growing 🚀</b>
-</p>
