@@ -8,14 +8,26 @@
 
 ---
 
-### 👨‍💻 About Me
 
 - 💼 Currently working as a Software Developer Intern at India Nippon Electricals Ltd.
 - 🌱 Currently working on React.js, Python and Full-Stack Development.
 - 💻 Interested in Software Development, Artificial Intelligence and Web Development.
-- 🏆 2nd Prize Winner – Amaravati Quantum Valley Hackathon(Semi-finals).
 - 🤝 Interested in collaborating on interesting software development projects.
 - ⚡ Believe in continuous learning and building real-world applications.
+- 📫 Reach me **ravitejapuram1@gmail.com**
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raviteja-puram/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+  </a>
+  <a href="https://github.com/raviteja-puram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -43,16 +55,5 @@
 - **RT Store** – Electronics e-commerce application using Django REST Framework and React.
 - **Portfolio Website** – Personal portfolio showcasing my skills and projects.
 
----
 
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/raviteja-puram/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
-  </a>
-  <a href="https://github.com/raviteja-puram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30" width="40" />
-  </a>
-</p>
 
