@@ -18,7 +18,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me : 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raviteja-puram/" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools :
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="30" width="40" /></a>
@@ -46,14 +46,4 @@
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="30" width="40" /></a>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- **INEL Inventory Management System** – Inventory and production management application.
-- **RT Store** – Electronics e-commerce application using Django REST Framework and React.
-- **Portfolio Website** – Personal portfolio showcasing my skills and projects.
-
-
 
