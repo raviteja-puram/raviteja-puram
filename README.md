@@ -12,9 +12,9 @@
 
 - 🎓 B.Tech Graduate in Computer Science (AI & ML).
 - 💼 Currently working as a Software Developer Intern at India Nippon Electricals Limited.
-- 🌱 Learning and improving my skills in React.js, Python and Full-Stack Development.
-- 💻 Interested in Software Development, Web Development and Artificial Intelligence.
-- 🏆 2nd Prize Winner – Amaravati Quantum Valley Hackathon.
+- 🌱 Currently working on React.js, Python and Full-Stack Development.
+- 💻 Interested in Software Development, Artificial Intelligence and Web Development.
+- 🏆 2nd Prize Winner – Amaravati Quantum Valley Hackathon(Semi-finals).
 - 🤝 Interested in collaborating on interesting software development projects.
 - ⚡ Believe in continuous learning and building real-world applications.
 
@@ -50,19 +50,6 @@
 
 - 🥈 2nd Prize – Amaravati Quantum Valley Hackathon 2026.
 - 🧠 Worked on identifying anomalies in transaction data using Quantum Machine Learning (QML).
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviteja-puram&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-puram&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raviteja-puram&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
